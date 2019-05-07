@@ -1,9 +1,0 @@
-
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8­ä´å¨-
-Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8­ä´å¨-
-Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8é—åå¨-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô²À¯ûÿÿÿÿ8Çàâå¨-
-Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Çßáå¨-
-bsquid:S2147 "DCombine this catch with the one at line 30, which has the same body.(ýàÑÎ8é—åå¨-
-Lsquid:S2115")Add password protection to this database.(Õ„õ»øÿÿÿÿ8­ä´å¨-

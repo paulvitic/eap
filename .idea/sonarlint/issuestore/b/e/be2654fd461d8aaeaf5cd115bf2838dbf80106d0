@@ -1,6 +1,0 @@
-
-msquid:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û¦¤š8ãµ¾ã¨-
-msquid:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(£³®8ãµ¾ã¨-
-squid:S1488&"^Immediately return this expression instead of assigning it to the temporary variable "result".(ß‚Ù ÿÿÿÿÿ8ãµ¾ã¨-
-msquid:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×ãïß8ãµ¾ã¨-
-squid:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "result".(ß‚Ù ÿÿÿÿÿ8ãµ¾ã¨-
